@@ -5,6 +5,6 @@
 ## 🚀 Kurulum
 
 ```bash
-git clone https://github.com/CapitanOfLinux/lse-liux-system-element.git
+git clone https://github.com/CapitanOfLinux/lse-linux-system-element.git
 cd lse
 makepkg -si
