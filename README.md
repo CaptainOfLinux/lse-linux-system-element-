@@ -6,5 +6,5 @@
 
 ```bash
 git clone https://github.com/CapitanOfLinux/lse-linux-system-element.git
-cd lse
+cd lse-linux-system-element
 makepkg -si
